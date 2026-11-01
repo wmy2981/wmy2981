@@ -28,8 +28,8 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=wmy2981&show_icons=true&theme=default)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wmy2981&layout=compact&theme=default)
+![Stats](https://github-readme-stats-omega-one.vercel.app/api?username=wmy2981&show_icons=true&theme=default)
+![Languages](https://github-readme-stats-omega-one.vercel.app/api/top-langs/?username=wmy2981&layout=compact&theme=default)
 ![Streak](https://streak-stats.demolab.com?user=wmy2981&theme=default)
 
 </div>

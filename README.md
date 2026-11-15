@@ -17,7 +17,7 @@
 - **[siyuan-bazaar-stats-graph](https://github.com/wmy2981/siyuan-bazaar-stats-graph)** — 为思源集市包提供运行于 Cloudflare Workers 的静态 SVG 趋势图 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Stars](https://img.shields.io/badge/⭐-2-yellow)
 - **[editor-siyuan](https://github.com/wmy2981/editor-siyuan)** — 在思源自己的页签里打开、编辑笔记链接到的文本文件 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Stars](https://img.shields.io/badge/⭐-2-yellow)
 - **[some-settings-siyuan](https://github.com/wmy2981/some-settings-siyuan)** — 内置一批可独立开关的桌面端与移动端增强功能 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Stars](https://img.shields.io/badge/⭐-2-yellow)
-- 更多：[button-in-siyuan](https://github.com/wmy2981/button-in-siyuan) · [opencode-go-siyuan](https://github.com/wmy2981/opencode-go-siyuan) · [bazaar-changelog](https://github.com/wmy2981/bazaar-changelog) · [auto-review-siyuan](https://github.com/wmy2981/auto-review-siyuan)
+- 更多：[button-in-siyuan](https://github.com/wmy2981/button-in-siyuan) · [opencode-go-siyuan](https://github.com/wmy2981/opencode-go-siyuan) · [bazaar-changelog](https://github.com/wmy2981/bazaar-changelog)
 
 ### 🛠️ 自托管工具
 

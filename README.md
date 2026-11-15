@@ -20,11 +20,16 @@
 - **[button-in-siyuan](https://github.com/wmy2981/button-in-siyuan)** — 在文档里插入思源原生按钮块，可绑定链接或 JavaScript 动作 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Stars](https://img.shields.io/badge/⭐-2-yellow)
 - **[opencode-go-siyuan](https://github.com/wmy2981/opencode-go-siyuan)** — 把 OpenCode Go 接成思源原生供应商，按会话传请求头并统计用量 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Stars](https://img.shields.io/badge/⭐-2-yellow)
 - **[bazaar-changelog](https://github.com/wmy2981/bazaar-changelog)** — 在思源里查看集市包的发行说明与仓库 CHANGELOG，并用它确认更新 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Stars](https://img.shields.io/badge/⭐-2-yellow)
+- **[s3-usage-siyuan](https://github.com/wmy2981/s3-usage-siyuan)** — 在思源里查看 S3 兼容对象存储桶的存储量、对象数、流量与请求数，支持 AWS S3、Cloudflare R2、阿里云 OSS、腾讯云 COS、七牛与 MinIO ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 
 ### 🛠️ 自托管工具
 
 - **[gourl](https://github.com/wmy2981/gourl)** — 轻量级自托管短链接服务（Go + React SPA，SQLite + Redis） ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) ![Stars](https://img.shields.io/badge/⭐-1-yellow)
 - **[ppm](https://github.com/wmy2981/ppm)** — Windows netsh portproxy 管理 TUI，k9s 风格终端界面管理端口转发 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) ![Stars](https://img.shields.io/badge/⭐-1-yellow)
+
+### 📱 客户端应用
+
+- **[sink-android](https://github.com/wmy2981/sink-android)** — Sink 短链服务的原生 Android 客户端（Kotlin + Jetpack Compose + Material Design 3） ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
 
 ### 🧰 其他工具
 
